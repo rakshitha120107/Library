@@ -1,0 +1,44 @@
+*{
+    color: red;
+}
+h1{
+    color: rgb(67, 67, 15);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 10px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px; 
+    border-color:rgb(107, 14, 14);
+    border-style: groove;
+    background-color: beige;
+}
+.nithi{
+    color: blue;
+}
+#priya{
+    color: green;
+}
+h4,h6,div{
+    color:rgb(94, 167, 232)
+}
+h2 p{
+    color:bisque;
+}
+input[required]{
+    border: 2px solid black;
+}
+a[href="selector.css"]{
+    color: brown;
+}
+a[href="internal css.html"]{
+    color: gold;
+}
+a[href="external css.html"]{
+    color: lawngreen;
+}
+a[href="css.html"]{
+    color: purple
+}
